@@ -8,7 +8,7 @@
 
 - [Sublime-Minifier](#Sublime-Minifier)
 - ​
-- 
+- ​
 
 ## Sublime-Minifier##
 
@@ -17,7 +17,7 @@
 git 安装：
 
 ```git
-git clone https://github.com/bistory/Sublime-Minifier.git       
+git clone https://github.com/gqzydh/Sublime-Minifier.git  
 ```
 
 通过sublime 中Browse PacKages菜单查看
